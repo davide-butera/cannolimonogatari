@@ -11,10 +11,13 @@ module.exports = (eleventyConfig) => {
     breaks: true,
     linkify: false
   };
+  
   eleventyConfig.setLibrary('md', markdownIt(options));
-
   return {
     // Use liquid in html templates
-    htmlTemplateEngine: 'liquid'
+    htmlTemplateEngine: 'liquid',
+    dir: {
+      output: "docs"
+    }
   };
 };
