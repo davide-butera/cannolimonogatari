@@ -1,8 +1,9 @@
 ---
 layout: homepage.liquid
-title: Horsin' Around
+title: Cannoli monogatari
 ---
 
-# Welcome to Hollywoo
+# cannoli monogatari
 
-Hello. I am BoJack. Horseman, obviously
+カンノーリ物語
+A personal blog about my thoughts, ideas, and passions. 
