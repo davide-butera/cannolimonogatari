@@ -5,9 +5,9 @@
   "scripts": {
     "build": "eleventy && npm run sass",
     "serve": "concurrently 'eleventy --serve' 'npm run sass:watch'",
-    "sass": "sass styles:_site/styles --no-source-map --style=compressed --update",
+    "sass": "sass styles:docs/styles --no-source-map --style=compressed --update",
     "sass:watch": "npm run sass && npm run sass -- --watch",
-    "clean": "rm -rf _site",
+    "clean": "rm -rf docs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
