@@ -4,7 +4,7 @@
   <subtitle>A minimal blog template using eleventy</subtitle>
   <link href="https://eleventy-blog-mnml.netlify.app" rel="self"/>
   <link href="https://eleventy-blog-mnml.netlify.app"/>
-  <updated>2021-12-28T17:44:58Z</updated>
+  <updated>2021-12-28T17:48:32Z</updated>
   <id>https://eleventy-blog-mnml.netlify.app</id>
   <author>
     <name>Arpit Batra</name>
@@ -14,7 +14,7 @@
     <entry>
       <title>TODO</title>
       <link href="https://eleventy-blog-mnml.netlify.app/posts/todo/"/>
-      <updated>2021-12-28T17:44:58Z</updated>
+      <updated>2021-12-28T17:48:32Z</updated>
       <id>https://eleventy-blog-mnml.netlify.app/posts/todo/</id>
       <content type="html">&lt;p&gt;TODO:&lt;/p&gt;
 &lt;ul&gt;
